@@ -118,3 +118,25 @@ ul li a{
   height: 100%;
   width: 100%;
 }
+
+#LetSimalaRide{
+  position: absolute;
+  top: 328%;
+  height: 30%;
+  width: 100%;
+  background-color: blueviolet;
+  
+}
+
+#LetSimalaRide h1{
+  position: absolute;
+  top: 20%;
+  left: 0%;
+}
+
+#LetSimalaRide img{
+  position: absolute;
+  right: 0%;
+  height: 100%;
+  width: 30%;
+}
