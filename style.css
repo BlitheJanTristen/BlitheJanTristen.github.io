@@ -124,19 +124,103 @@ ul li a{
   top: 328%;
   height: 30%;
   width: 100%;
-  background-color: blueviolet;
+  background-color: white;
   
 }
 
 #LetSimalaRide h1{
   position: absolute;
-  top: 20%;
-  left: 0%;
+  top: 0%;
+  left: 20%;
+  font-size: 50px;
+  font-family: Gayathri;
+  text-align: center;
 }
 
 #LetSimalaRide img{
   position: absolute;
   right: 0%;
   height: 100%;
-  width: 30%;
+  width: 100%;
+  opacity: 50%;
+}
+
+#LetSimala{
+  position: absolute;
+  top: 358%;
+  height: 40%;
+  width: 50%;
+  background-color: white;
+  
+}
+
+#LetSimala h1{
+  position: absolute;
+  top: 0%;
+  left: 9%;
+  font-size: 50px;
+  font-family: Gayathri;
+  text-align: center;
+}
+
+#LetSimala img{
+  position: absolute;
+  right: 0%;
+  height: 100%;
+  width: 100%;
+  opacity: 50%;
+}
+
+#LetHouse{
+  position: absolute;
+  top: 358%;
+  left: 50%;
+  height: 40%;
+  width: 50%;
+  background-color: white;
+  
+}
+
+#LetHouse h1{
+  position: absolute;
+  top: 0%;
+  left: 9%;
+  font-size: 50px;
+  font-family: Gayathri;
+  text-align: center;
+}
+
+#LetHouse img{
+  position: absolute;
+  right: 0%;
+  height: 100%;
+  width: 100%;
+  opacity: 50%;
+}
+
+#LetFavorite{
+  position: absolute;
+  top: 398%;
+  left: 0%;
+  height: 30%;
+  width: 100%;
+  background-color: white;
+  
+}
+
+#LetFavorite h1{
+  position: absolute;
+  top: 0%;
+  left: 9%;
+  font-size: 50px;
+  font-family: Gayathri;
+  text-align: center;
+}
+
+#LetFavorite img{
+  position: absolute;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  opacity: 50%;
 }
