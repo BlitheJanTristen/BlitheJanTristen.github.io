@@ -63,38 +63,58 @@ ul li a{
 
 #House img{
   position: absolute;
-  top: 40%;
+  top: 53%;
   left: 0%;
   height: 75%;
   width: 50%;
 }
 
 #Favorite img{
-  height: 100%;
-  width: 100%;
+  position: absolute;
+  top: 78%;
+  left: 50%;
+  height: 50%;
+  width: 50%;
 }
 
-#YourSmile img{
-  height: 100%;
-  width: 100%;
-}
+
 
 #Mactan img{
-  height: 100%;
-  width: 100%;
+  position: absolute;
+  top: 128%;
+  left: 0%;
+  height: 50%;
+  width: 50%;
 }
 
 #Sinulog img{
-  height: 100%;
-  width: 100%;
+  position: absolute;
+  top: 128%;
+  left: 50%;
+  height: 50%;
+  width: 50%;
 }
 
 #Asturias img{
-  height: 100%;
-  width: 100%;
+  position: absolute;
+  top: 178%;
+  left: 0%;
+  height: 50%;
+  width: 50%;
 }
 
-#Jeje img{
+#YourSmile img{
+  position: absolute;
+  top: 178%;
+  left: 50%;
+  height: 50%;
+  width: 50%;
+}
+
+#Nest img{
+  position: absolute;
+  top: 228%;
+  left: 0%;
   height: 100%;
   width: 100%;
 }
