@@ -238,7 +238,7 @@ ul li a{
 #LetMactan h1{
   position: absolute;
   top: 0%;
-  left: 10%;
+  left: 23%;
   font-size: 3vw;
   font-family: Gayathri;
   text-align: center;
@@ -265,13 +265,94 @@ ul li a{
 #LetSinulog h1{
   position: absolute;
   top: 0%;
-  left: 10%;
+  left: 23%;
   font-size: 3vw;
   font-family: Gayathri;
   text-align: center;
 }
 
 #LetSinulog img{
+  position: absolute;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  opacity: 50%;
+}
+
+#LetAsturias{
+  position: absolute;
+  top: 488%;
+  left: 0%;
+  height: 30%;
+  width: 100%;
+  background-color: white;
+  
+}
+
+#LetAsturias h1{
+  position: absolute;
+  top: 0%;
+  left: 23%;
+  font-size: 3vw;
+  font-family: Gayathri;
+  text-align: center;
+}
+
+#LetAsturias img{
+  position: absolute;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  opacity: 50%;
+}
+
+#LetYourSmile{
+  position: absolute;
+  top: 518%;
+  left: 0%;
+  height: 50%;
+  width: 100%;
+  background-color: white;
+  
+}
+
+#LetYourSmile h1{
+  position: absolute;
+  top: 0%;
+  left: 23%;
+  font-size: 3vw;
+  font-family: Gayathri;
+  text-align: center;
+}
+
+#LetYourSmile img{
+  position: absolute;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  opacity: 50%;
+}
+
+#LetNest{
+  position: absolute;
+  top: 568%;
+  left: 0%;
+  height: 30%;
+  width: 100%;
+  background-color: white;
+  
+}
+
+#LetNest h1{
+  position: absolute;
+  top: 0%;
+  left: 23%;
+  font-size: 3vw;
+  font-family: Gayathri;
+  text-align: center;
+}
+
+#LetNest img{
   position: absolute;
   left: 0%;
   height: 100%;
