@@ -11,7 +11,7 @@
   body {
     margin: 0;
   }
-a:hover, a:active {
+ul a:hover, ul a:active {
     color: white;
     background-color: #7b11a8;
     padding: 10px;
@@ -44,21 +44,31 @@ ul li a{
     font-size: 10px; 
 }
 
-#Blithe img{
+#SimalaRide img{
     height: 1000px;
     width: 3000px;
     
 }
 
-#Blithe h1{
-    position: fixed;
-    top: 5%;
-    font-family: Kanit;    
-    color: black;
-    font-size: 30px;
+#Simala img{
+  height: max-content;
+  width: max-content;
 }
 
+#House img{
+  height: 100%;
+  width: ;: 100%;
+}
 
+#Favorite img{
+  height: 100%;
+  width: 100%;
+}
+
+#YourSmile img{
+  height: 100%;
+  width: 100%;
+}
 
 
 

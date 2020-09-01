@@ -11,9 +11,9 @@
   body {
     margin: 0;
   }
-a:hover, a:active {
-    color: white;
-    background-color: #7b11a8;
+ul a:hover, ul a:active {
+    color: black;
+    background-color: #ecf578;
     padding: 10px;
   }
 
@@ -50,12 +50,14 @@ ul li a{
     
 }
 
-#Blithe h1{
+#Blithetxt h1{
     position: fixed;
     top: 5%;
+    left: 3%;
     font-family: Kanit;    
     color: black;
-    font-size: 30px;
+    font-size: 20px;
+    font-family: Raleway;
 }
 
 
