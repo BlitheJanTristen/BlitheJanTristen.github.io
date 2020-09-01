@@ -45,19 +45,28 @@ ul li a{
 }
 
 #SimalaRide img{
-    height: 1000px;
-    width: 3000px;
+  position: absolute;
+  top: 3%;
+  left: 0%;
+  height: 50%;
+  width: 50%;
     
 }
 
 #Simala img{
-  height: max-content;
-  width: max-content;
+  position: absolute;
+  top: 3%;
+  left: 50%;
+  height: 75%;
+  width: 50%;
 }
 
 #House img{
-  height: 100%;
-  width: ;: 100%;
+  position: absolute;
+  top: 40%;
+  left: 0%;
+  height: 75%;
+  width: 50%;
 }
 
 #Favorite img{
