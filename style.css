@@ -11,10 +11,10 @@
   body {
     margin: 0;
   }
-ul a:hover, ul a:active {
-    color: white;
-    background-color: #7b11a8;
-    padding: 10px;
+#headtitle a:hover, #headtitle a:active {
+    color: black;
+    background-color: #fffd76;
+    padding: 5px;
   }
 
 header{
@@ -25,24 +25,25 @@ header{
 }
 
 
-ul{
-    float: left;
-    margin-top: 5px;
-    margin-right: 5%;
-    background-size: cover; 
+#headtitle{
+  float: left;
+  margin-left: 5%;
+  background-size: cover;
 }
 
-ul li{
-    display: inline;
+#headtitle h1{
+  display: inline;
 }
 
-ul li a{
-    color: black;
-    padding: 10px;
-    font-family: 'Krona One';
-    text-decoration: none;
-    font-size: 10px; 
+
+#headtitle h1 a{
+  color: black;
+  font-family: 'Krona One';
+  text-decoration: none;
+  font-size: 10px;
+  padding: 5px;
 }
+
 
 #SimalaRide img{
   position: absolute;
@@ -51,7 +52,7 @@ ul li a{
   height: 50%;
   width: 50%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #Simala img{
@@ -61,7 +62,7 @@ ul li a{
   height: 75%;
   width: 50%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #House img{
@@ -71,7 +72,7 @@ ul li a{
   height: 75%;
   width: 50%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #Favorite img{
@@ -81,7 +82,7 @@ ul li a{
   height: 50%;
   width: 50%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 
@@ -93,7 +94,7 @@ ul li a{
   height: 50%;
   width: 50%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #Sinulog img{
@@ -103,7 +104,7 @@ ul li a{
   height: 50%;
   width: 50%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #Asturias img{
@@ -113,7 +114,7 @@ ul li a{
   height: 50%;
   width: 50%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #YourSmile img{
@@ -123,7 +124,7 @@ ul li a{
   height: 50%;
   width: 50%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #Nest img{
@@ -133,7 +134,7 @@ ul li a{
   height: 100%;
   width: 100%;
   padding: 5px;
-  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetSimalaRide{
@@ -160,6 +161,8 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetSimala{
@@ -168,7 +171,6 @@ ul li a{
   height: 40%;
   width: 50%;
   background-color: white;
-  
 }
 
 #LetSimala h1{
@@ -186,6 +188,8 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetHouse{
@@ -213,6 +217,8 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetFavorite{
@@ -240,6 +246,8 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetMactan{
@@ -255,7 +263,7 @@ ul li a{
 #LetMactan h1{
   position: absolute;
   top: 0%;
-  left: 23%;
+  left: 5%;
   font-size: 3vw;
   font-family: Gayathri;
   text-align: center;
@@ -267,6 +275,8 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetSinulog{
@@ -294,6 +304,8 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetAsturias{
@@ -309,7 +321,7 @@ ul li a{
 #LetAsturias h1{
   position: absolute;
   top: 0%;
-  left: 23%;
+  left: 5%;
   font-size: 3vw;
   font-family: Gayathri;
   text-align: center;
@@ -321,6 +333,8 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetYourSmile{
@@ -348,6 +362,8 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
 
 #LetNest{
@@ -363,7 +379,7 @@ ul li a{
 #LetNest h1{
   position: absolute;
   top: 0%;
-  left: 23%;
+  left: 30%;
   font-size: 3vw;
   font-family: Gayathri;
   text-align: center;
@@ -375,4 +391,23 @@ ul li a{
   height: 100%;
   width: 100%;
   opacity: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
+}
+
+#You{
+  position: absolute;
+  top: 598%;
+  left: 0%;
+  height: 50%;
+  width: 100%;
+  background-color: white;
+}
+
+#You h1{
+  color: yellowgreen;
+  text-align: center;
+  font-size: 3vw;
+  font-family: Gayathri;
+  filter: drop-shadow(8px 8px 10px rgb(71, 155, 76));
 }
