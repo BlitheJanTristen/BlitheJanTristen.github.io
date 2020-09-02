@@ -50,7 +50,8 @@ ul li a{
   left: 0%;
   height: 50%;
   width: 50%;
-    
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 #Simala img{
@@ -59,6 +60,8 @@ ul li a{
   left: 50%;
   height: 75%;
   width: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 #House img{
@@ -67,6 +70,8 @@ ul li a{
   left: 0%;
   height: 75%;
   width: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 #Favorite img{
@@ -75,6 +80,8 @@ ul li a{
   left: 50%;
   height: 50%;
   width: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 
@@ -85,6 +92,8 @@ ul li a{
   left: 0%;
   height: 50%;
   width: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 #Sinulog img{
@@ -93,6 +102,8 @@ ul li a{
   left: 50%;
   height: 50%;
   width: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 #Asturias img{
@@ -101,6 +112,8 @@ ul li a{
   left: 0%;
   height: 50%;
   width: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 #YourSmile img{
@@ -109,6 +122,8 @@ ul li a{
   left: 50%;
   height: 50%;
   width: 50%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 #Nest img{
@@ -117,6 +132,8 @@ ul li a{
   left: 0%;
   height: 100%;
   width: 100%;
+  padding: 5px;
+  filter: drop-shadow(8px 8px 10px rgb(194, 194, 83));
 }
 
 #LetSimalaRide{
